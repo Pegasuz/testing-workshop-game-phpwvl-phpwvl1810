@@ -13,5 +13,8 @@
         "sebastian/phpcpd": "^3.0",
         "sensiolabs/security-checker": "^4.1",
         "sebastian/phpdcd": "^1.0"
+    },
+    "require": {
+        "codeception/codeception": "^2.5"
     }
 }
